@@ -1,0 +1,3 @@
+[submodule "raspberrypi_tools/raspberry-pi-factory-reset"]
+	path = raspberrypi_tools/raspberry-pi-factory-reset
+	url = https://github.com/limepepper/raspberry-pi-factory-reset
